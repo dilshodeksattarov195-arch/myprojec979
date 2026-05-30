@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssync",
+        "uuid": 8278424,
+        "checksum": "trjwan"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
